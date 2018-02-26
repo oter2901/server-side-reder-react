@@ -58,7 +58,25 @@ ShallowWrapper {
       }
     />,
     "_forcedUpdate": false,
-    "_instance": null,
+    "_instance": ArticleList {
+      "context": Object {},
+      "props": Object {
+        "articles": Object {
+          "a": Object {
+            "id": "a",
+          },
+          "b": Object {
+            "id": "b",
+          },
+        },
+      },
+      "refs": Object {},
+      "state": Object {},
+      "updater": Updater {
+        "_callbacks": Array [],
+        "_renderer": [Circular],
+      },
+    },
     "_newState": null,
     "_rendered": <div>
       <ArticleContainer
